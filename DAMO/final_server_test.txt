@@ -1,0 +1,6 @@
+curl --header "Authorization: key=AIzaSyDg5h3EhaiNCrL-RPVP3_P9OliIldlfjkM" --header 
+Content-Type:"application/json;charset=EUC-KR" https://gcm-http.googleapis.com/gcm/send -d "{\"data
+\":{\"title\":\"DAMO\",\"message\":\"고객이 비딩을 요청하였습니다.\"},\"to\":
+\"f9rg8_hS6UQ:APA91bGg4_8WFkiq6Cm39Cz1ukatJGbHlPnEU6cSStnB2zXWtCf6kPu5RFRvBWwVxFS7UnbGJQ2HPLtL_jpseRMNLRUZSfFjEqEf9ERdT7lE50oWe77ww864cQjxVbk8lsz6k3UAphcU\"}" -k
+
+
